@@ -1,0 +1,5 @@
+train: /content/drive/Shareddrives/1stYear/dataset/images/ # Path to your images folder
+val: /content/drive/Shareddrives/1stYear/dataset/images/ # Use the same path if you don't have a separate validation set
+
+nc: 1 # Number of classes
+names: ["licence"] # List of class names
