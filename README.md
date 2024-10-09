@@ -23,7 +23,8 @@ This project implements a license plate detection system using YOLOv5, compatibl
 
 ## Installation
 Follow the steps below to set up the project:
-1. Clone the repository:
+
+1. Clone the project repository:
     ```bash
     git clone https://github.com/Mohit-Singh2003/License-Detection-System.git
     ```
@@ -33,12 +34,26 @@ Follow the steps below to set up the project:
     cd License-Detection-System
     ```
 
-3. Install the required packages:
+3. Clone the YOLOv5 repository in the same root folder:
+    ```bash
+    git clone https://github.com/ultralytics/yolov5
+    ```
+
+4. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
 To run the license plate detection script, use the following command:
-```bash
-python app.py --source 0
+```bash python app.py```
+
+
+Contributing
+Feel free to contribute to this project by submitting issues or pull requests. Your feedback and contributions are welcome!
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For any inquiries, please contact: Mohit - mohitucsss@gmail.com
